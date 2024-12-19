@@ -5,7 +5,7 @@
     android:id="@+id/skating"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/amber">
+    android:background="@color/grey">
 
 
     <TextView
